@@ -1,0 +1,14 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+    box-sizing: border-box;
+}
+
+.left {
+    width: 50vw;
+    height: 100vh;
+}
+
+.right {
+    width: 50vw;
+    height: 100vh;
+}

@@ -1,0 +1,12 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+    max-height: 300px;
+    max-width: 230px;
+}
+
+.active {
+    font-weight: bolder;
+}

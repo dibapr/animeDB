@@ -1,0 +1,15 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+    box-sizing: border-box;
+    
+}
+
+.head {
+    background: url("../assets/add.jpg");
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.active {
+    font-weight: bolder !important;
+}

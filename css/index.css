@@ -1,0 +1,71 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+    box-sizing: border-box;
+}
+
+.header {
+    background-image: url("../assets/holo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    max-width: 100vw;
+    height: 100vh;
+}
+
+.head {
+    padding-top: 30vh;
+}
+
+.active {
+    font-weight: bolder;
+}
+
+.why {
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}
+
+.why-head {
+    margin: 0 10vw;
+}
+
+.why img {
+    max-width: 100%;
+}
+
+.line {
+    width: 65px;
+    height: 5px;
+    background-color: rgb(49, 49, 49);
+}
+
+.explore {
+    background-image: url("../assets/aqua.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    max-width: 100vw;
+    height: 25vh;
+}
+
+.visit {
+    padding: 20vh 0;
+    margin: 0 5vw;
+}
+
+.visit img {
+    max-width: 100%;
+}
+
+.visit-head {
+    margin: 0 10vw;
+}
+
+footer {
+    max-width: 100vw;
+}
+
+.footer-menu ul li {
+    list-style: none;
+}
